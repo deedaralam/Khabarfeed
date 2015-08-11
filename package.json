@@ -1,0 +1,10 @@
+{
+  "name": "KhabarFeed",
+  "version": "0.0.1",
+  "description": "Online News Update Portails",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "DeedarAlam"
+}
